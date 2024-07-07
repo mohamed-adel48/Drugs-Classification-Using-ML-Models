@@ -9,7 +9,7 @@ The dataset used in this project is sourced from Kaggle: [Drugs A, B, C, X, Y fo
 - **Cholesterol**: Cholesterol levels of the patient (High or Normal).
 - **Na_to_K**: Sodium to potassium ratio in the patient's blood.
 - **Drug**: The drug prescribed (DrugY, DrugC, DrugX, DrugA, DrugB).
-The dataset is available in the `drug200.csv` file.
+* The dataset is available in the `drug200.csv` file.
 
 ## Notebook
 The Jupyter Notebook `Drugs_Classification.ipynb` contains the code for data preprocessing, model building, and evaluation. The notebook walks through the following steps:
