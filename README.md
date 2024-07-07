@@ -19,6 +19,18 @@ The Jupyter Notebook `Drugs_Classification.ipynb` contains the code for data pre
 4. **Model Evaluation**: Evaluating the performance of the models using metrics such as accuracy, precision, recall, and F1-score.
 5. **Results**: Comparing the results of the models and drawing conclusion.
 
+## Model Performance
+
+Below is a table showing the accuracy of different models used in this project:
+
+| Model                  | Accuracy |
+|------------------------|----------|
+| Random Forest          | 100%     |
+| Decision Tree          | 97.5%    |
+| Support Vector Machine | 97.5%    |
+| Gradient Boosting      | 97.5%    |
+| K-Nearest Neighbors    | 65%      |
+
 ## Requirements
 The project requires the following Python libraries:
 
