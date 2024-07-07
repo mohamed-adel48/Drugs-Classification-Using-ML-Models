@@ -32,4 +32,4 @@ The project requires the following Python libraries:
 You can install the necessary libraries using `pip`:
 
 ```bash
-!pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
