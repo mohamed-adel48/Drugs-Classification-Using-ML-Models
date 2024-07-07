@@ -9,7 +9,7 @@ The dataset used in this project is sourced from Kaggle: [Drugs A, B, C, X, Y fo
 - **Cholesterol**: Cholesterol levels of the patient (High or Normal).
 - **Na_to_K**: Sodium to potassium ratio in the patient's blood.
 - **Drug**: The drug prescribed (DrugY, DrugC, DrugX, DrugA, DrugB).
-- 
+
 ## Notebook
 The Jupyter Notebook `Drugs_Classification.ipynb` contains the code for data preprocessing, model building, and evaluation. The notebook walks through the following steps:
 
@@ -17,4 +17,19 @@ The Jupyter Notebook `Drugs_Classification.ipynb` contains the code for data pre
 2. **Data Preprocessing**: Handling missing values, encoding categorical features, and splitting the dataset into training and testing sets.
 3. **Model Building**: Constructing and training the KNN and Decision Tree models.
 4. **Model Evaluation**: Evaluating the performance of the models using metrics such as accuracy, precision, recall, and F1-score.
-5. **Results**: Comparing the results of the models and drawing conclusio
+5. **Results**: Comparing the results of the models and drawing conclusion.
+
+## Requirements
+The project requires the following Python libraries:
+
+- Pandas
+- NumPy
+- Sci-kit-learn
+- Matplotlib
+- Seaborn
+- Jupyter
+
+You can install the necessary libraries using `pip`:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
